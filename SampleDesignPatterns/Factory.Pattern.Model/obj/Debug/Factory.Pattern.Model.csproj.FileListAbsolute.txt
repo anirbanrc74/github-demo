@@ -1,0 +1,12 @@
+C:\Work\Design-Architecture\SampleDesignPatterns\Factory.Pattern.Model\bin\Debug\Factory.Pattern.Model.dll
+C:\Work\Design-Architecture\SampleDesignPatterns\Factory.Pattern.Model\bin\Debug\Factory.Pattern.Model.pdb
+C:\Work\Design-Architecture\SampleDesignPatterns\Factory.Pattern.Model\obj\Debug\Factory.Pattern.Model.csproj.CoreCompileInputs.cache
+C:\Work\Design-Architecture\SampleDesignPatterns\Factory.Pattern.Model\obj\Debug\Factory.Pattern.Model.dll
+C:\Work\Design-Architecture\SampleDesignPatterns\Factory.Pattern.Model\obj\Debug\Factory.Pattern.Model.pdb
+C:\Work\Design-Architecture\SampleDesignPatterns\Factory.Pattern.Model\obj\Debug\Factory.Pattern.Model.csprojAssemblyReference.cache
+C:\Anirban\Design-Architecture\SampleDesignPatterns\Factory.Pattern.Model\bin\Debug\Factory.Pattern.Model.dll
+C:\Anirban\Design-Architecture\SampleDesignPatterns\Factory.Pattern.Model\bin\Debug\Factory.Pattern.Model.pdb
+C:\Anirban\Design-Architecture\SampleDesignPatterns\Factory.Pattern.Model\obj\Debug\Factory.Pattern.Model.csprojAssemblyReference.cache
+C:\Anirban\Design-Architecture\SampleDesignPatterns\Factory.Pattern.Model\obj\Debug\Factory.Pattern.Model.csproj.CoreCompileInputs.cache
+C:\Anirban\Design-Architecture\SampleDesignPatterns\Factory.Pattern.Model\obj\Debug\Factory.Pattern.Model.dll
+C:\Anirban\Design-Architecture\SampleDesignPatterns\Factory.Pattern.Model\obj\Debug\Factory.Pattern.Model.pdb

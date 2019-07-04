@@ -1,0 +1,12 @@
+C:\Work\Design-Architecture\SampleDesignPatterns\Decorator.Pattern.Model\bin\Debug\Decorator.Pattern.Model.dll
+C:\Work\Design-Architecture\SampleDesignPatterns\Decorator.Pattern.Model\bin\Debug\Decorator.Pattern.Model.pdb
+C:\Work\Design-Architecture\SampleDesignPatterns\Decorator.Pattern.Model\obj\Debug\Decorator.Pattern.Model.csproj.CoreCompileInputs.cache
+C:\Work\Design-Architecture\SampleDesignPatterns\Decorator.Pattern.Model\obj\Debug\Decorator.Pattern.Model.dll
+C:\Work\Design-Architecture\SampleDesignPatterns\Decorator.Pattern.Model\obj\Debug\Decorator.Pattern.Model.pdb
+C:\Work\Design-Architecture\SampleDesignPatterns\Decorator.Pattern.Model\obj\Debug\Decorator.Pattern.Model.csprojAssemblyReference.cache
+C:\Anirban\Design-Architecture\SampleDesignPatterns\Decorator.Pattern.Model\bin\Debug\Decorator.Pattern.Model.dll
+C:\Anirban\Design-Architecture\SampleDesignPatterns\Decorator.Pattern.Model\bin\Debug\Decorator.Pattern.Model.pdb
+C:\Anirban\Design-Architecture\SampleDesignPatterns\Decorator.Pattern.Model\obj\Debug\Decorator.Pattern.Model.csprojAssemblyReference.cache
+C:\Anirban\Design-Architecture\SampleDesignPatterns\Decorator.Pattern.Model\obj\Debug\Decorator.Pattern.Model.csproj.CoreCompileInputs.cache
+C:\Anirban\Design-Architecture\SampleDesignPatterns\Decorator.Pattern.Model\obj\Debug\Decorator.Pattern.Model.dll
+C:\Anirban\Design-Architecture\SampleDesignPatterns\Decorator.Pattern.Model\obj\Debug\Decorator.Pattern.Model.pdb

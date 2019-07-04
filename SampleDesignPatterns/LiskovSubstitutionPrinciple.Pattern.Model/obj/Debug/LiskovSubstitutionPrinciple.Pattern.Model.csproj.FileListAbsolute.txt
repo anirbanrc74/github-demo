@@ -1,0 +1,6 @@
+C:\Work\Design-Architecture\SampleDesignPatterns\LiskovSubstitutionPrinciple.Pattern.Model\bin\Debug\LiskovSubstitutionPrinciple.Pattern.Model.dll
+C:\Work\Design-Architecture\SampleDesignPatterns\LiskovSubstitutionPrinciple.Pattern.Model\bin\Debug\LiskovSubstitutionPrinciple.Pattern.Model.pdb
+C:\Work\Design-Architecture\SampleDesignPatterns\LiskovSubstitutionPrinciple.Pattern.Model\obj\Debug\LiskovSubstitutionPrinciple.Pattern.Model.csprojAssemblyReference.cache
+C:\Work\Design-Architecture\SampleDesignPatterns\LiskovSubstitutionPrinciple.Pattern.Model\obj\Debug\LiskovSubstitutionPrinciple.Pattern.Model.csproj.CoreCompileInputs.cache
+C:\Work\Design-Architecture\SampleDesignPatterns\LiskovSubstitutionPrinciple.Pattern.Model\obj\Debug\LiskovSubstitutionPrinciple.Pattern.Model.dll
+C:\Work\Design-Architecture\SampleDesignPatterns\LiskovSubstitutionPrinciple.Pattern.Model\obj\Debug\LiskovSubstitutionPrinciple.Pattern.Model.pdb

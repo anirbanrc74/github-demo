@@ -1,0 +1,6 @@
+C:\Work\Design-Architecture\SampleDesignPatterns\DependencyInjection.Pattern.Model\obj\Debug\DependencyInjection.Pattern.Model.csproj.CoreCompileInputs.cache
+C:\Work\Design-Architecture\SampleDesignPatterns\DependencyInjection.Pattern.Model\bin\Debug\DependencyInjection.Pattern.Model.dll
+C:\Work\Design-Architecture\SampleDesignPatterns\DependencyInjection.Pattern.Model\bin\Debug\DependencyInjection.Pattern.Model.pdb
+C:\Work\Design-Architecture\SampleDesignPatterns\DependencyInjection.Pattern.Model\obj\Debug\DependencyInjection.Pattern.Model.dll
+C:\Work\Design-Architecture\SampleDesignPatterns\DependencyInjection.Pattern.Model\obj\Debug\DependencyInjection.Pattern.Model.pdb
+C:\Work\Design-Architecture\SampleDesignPatterns\DependencyInjection.Pattern.Model\obj\Debug\DependencyInjection.Pattern.Model.csprojAssemblyReference.cache

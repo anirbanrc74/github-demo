@@ -1,0 +1,12 @@
+C:\Work\Design-Architecture\SampleDesignPatterns\Strategy.Pattern.Model\bin\Debug\Strategy.Pattern.Model.dll
+C:\Work\Design-Architecture\SampleDesignPatterns\Strategy.Pattern.Model\bin\Debug\Strategy.Pattern.Model.pdb
+C:\Work\Design-Architecture\SampleDesignPatterns\Strategy.Pattern.Model\obj\Debug\Strategy.Pattern.Model.csproj.CoreCompileInputs.cache
+C:\Work\Design-Architecture\SampleDesignPatterns\Strategy.Pattern.Model\obj\Debug\Strategy.Pattern.Model.dll
+C:\Work\Design-Architecture\SampleDesignPatterns\Strategy.Pattern.Model\obj\Debug\Strategy.Pattern.Model.pdb
+C:\Work\Design-Architecture\SampleDesignPatterns\Strategy.Pattern.Model\obj\Debug\Strategy.Pattern.Model.csprojAssemblyReference.cache
+C:\Anirban\Design-Architecture\SampleDesignPatterns\Strategy.Pattern.Model\bin\Debug\Strategy.Pattern.Model.dll
+C:\Anirban\Design-Architecture\SampleDesignPatterns\Strategy.Pattern.Model\bin\Debug\Strategy.Pattern.Model.pdb
+C:\Anirban\Design-Architecture\SampleDesignPatterns\Strategy.Pattern.Model\obj\Debug\Strategy.Pattern.Model.csprojAssemblyReference.cache
+C:\Anirban\Design-Architecture\SampleDesignPatterns\Strategy.Pattern.Model\obj\Debug\Strategy.Pattern.Model.csproj.CoreCompileInputs.cache
+C:\Anirban\Design-Architecture\SampleDesignPatterns\Strategy.Pattern.Model\obj\Debug\Strategy.Pattern.Model.dll
+C:\Anirban\Design-Architecture\SampleDesignPatterns\Strategy.Pattern.Model\obj\Debug\Strategy.Pattern.Model.pdb
