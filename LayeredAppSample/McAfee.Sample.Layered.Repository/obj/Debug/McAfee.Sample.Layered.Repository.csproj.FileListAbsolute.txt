@@ -1,0 +1,10 @@
+C:\Work\Design-Architecture\LayeredAppSample\McAfee.Sample.Layered.Repository\bin\Debug\McAfee.Sample.Layered.Repository.dll
+C:\Work\Design-Architecture\LayeredAppSample\McAfee.Sample.Layered.Repository\bin\Debug\McAfee.Sample.Layered.Repository.pdb
+C:\Work\Design-Architecture\LayeredAppSample\McAfee.Sample.Layered.Repository\obj\Debug\McAfee.Sample.Layered.Repository.csprojAssemblyReference.cache
+C:\Work\Design-Architecture\LayeredAppSample\McAfee.Sample.Layered.Repository\obj\Debug\McAfee.Sample.Layered.Repository.csproj.CoreCompileInputs.cache
+C:\Work\Design-Architecture\LayeredAppSample\McAfee.Sample.Layered.Repository\obj\Debug\McAfee.Sample.Layered.Repository.dll
+C:\Work\Design-Architecture\LayeredAppSample\McAfee.Sample.Layered.Repository\obj\Debug\McAfee.Sample.Layered.Repository.pdb
+C:\Work\Design-Architecture\LayeredAppSample\McAfee.Sample.Layered.Repository\bin\Debug\McAfee.Sample.Layered.Model.dll
+C:\Work\Design-Architecture\LayeredAppSample\McAfee.Sample.Layered.Repository\bin\Debug\McAfee.Sample.Layered.Model.pdb
+C:\Work\Design-Architecture\LayeredAppSample\McAfee.Sample.Layered.Repository\obj\Debug\McAfee.Sample.Layered.Repository.csproj.CopyComplete
+C:\Work\Design-Architecture\LayeredAppSample\McAfee.Sample.Layered.Repository\bin\Debug\McAfee.Sample.Layered.Repository.dll.config

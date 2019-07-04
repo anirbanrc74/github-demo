@@ -1,0 +1,11 @@
+C:\Work\Design-Architecture\LayeredAppSample\McAfee.Sample.Layered.Presentation\bin\Debug\McAfee.Sample.Layered.Presentation.dll
+C:\Work\Design-Architecture\LayeredAppSample\McAfee.Sample.Layered.Presentation\bin\Debug\McAfee.Sample.Layered.Presentation.pdb
+C:\Work\Design-Architecture\LayeredAppSample\McAfee.Sample.Layered.Presentation\obj\Debug\McAfee.Sample.Layered.Presentation.csprojAssemblyReference.cache
+C:\Work\Design-Architecture\LayeredAppSample\McAfee.Sample.Layered.Presentation\obj\Debug\McAfee.Sample.Layered.Presentation.csproj.CoreCompileInputs.cache
+C:\Work\Design-Architecture\LayeredAppSample\McAfee.Sample.Layered.Presentation\obj\Debug\McAfee.Sample.Layered.Presentation.dll
+C:\Work\Design-Architecture\LayeredAppSample\McAfee.Sample.Layered.Presentation\obj\Debug\McAfee.Sample.Layered.Presentation.pdb
+C:\Work\Design-Architecture\LayeredAppSample\McAfee.Sample.Layered.Presentation\bin\Debug\McAfee.Sample.Layered.Model.dll
+C:\Work\Design-Architecture\LayeredAppSample\McAfee.Sample.Layered.Presentation\bin\Debug\McAfee.Sample.Layered.Service.dll
+C:\Work\Design-Architecture\LayeredAppSample\McAfee.Sample.Layered.Presentation\bin\Debug\McAfee.Sample.Layered.Model.pdb
+C:\Work\Design-Architecture\LayeredAppSample\McAfee.Sample.Layered.Presentation\bin\Debug\McAfee.Sample.Layered.Service.pdb
+C:\Work\Design-Architecture\LayeredAppSample\McAfee.Sample.Layered.Presentation\obj\Debug\McAfee.Sample.Layered.Presentation.csproj.CopyComplete

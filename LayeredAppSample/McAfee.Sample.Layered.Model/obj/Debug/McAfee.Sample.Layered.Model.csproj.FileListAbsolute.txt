@@ -1,0 +1,6 @@
+C:\Work\Design-Architecture\LayeredAppSample\McAfee.Sample.Layered.Model\bin\Debug\McAfee.Sample.Layered.Model.dll
+C:\Work\Design-Architecture\LayeredAppSample\McAfee.Sample.Layered.Model\bin\Debug\McAfee.Sample.Layered.Model.pdb
+C:\Work\Design-Architecture\LayeredAppSample\McAfee.Sample.Layered.Model\obj\Debug\McAfee.Sample.Layered.Model.csprojAssemblyReference.cache
+C:\Work\Design-Architecture\LayeredAppSample\McAfee.Sample.Layered.Model\obj\Debug\McAfee.Sample.Layered.Model.csproj.CoreCompileInputs.cache
+C:\Work\Design-Architecture\LayeredAppSample\McAfee.Sample.Layered.Model\obj\Debug\McAfee.Sample.Layered.Model.dll
+C:\Work\Design-Architecture\LayeredAppSample\McAfee.Sample.Layered.Model\obj\Debug\McAfee.Sample.Layered.Model.pdb

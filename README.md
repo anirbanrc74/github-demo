@@ -1,2 +1,0 @@
-# github-demo
-Demo repository
